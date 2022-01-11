@@ -17,7 +17,8 @@ Currently, MoodList compares certain key words and phrases from your posts and c
 * May revisit this idea and develop a MoodList II with more advanced sentiment analysis and machine learning. 
 
 
-
+### Awards
+This project was awarded 2nd place out of 30+ competing teams at the North Allegheny High School Hackathon.
 
 ### Collaborators 
 This project was developed in collaboration with [Brady Mcdermott](github.com/brady-mcdermott) and [Casey Matvey](https://github.com/20camatvey31).
